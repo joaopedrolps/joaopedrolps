@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 👋 Olá! Me chamo João Pedro
 - 🌱 Sou um dos integrantes do Smart Irrigation System
-- ⚙️ Estou em constante evolução na área dev
+- ⚙️ Estou em constante evolução na área de desenvolvimento
 <div>
   <a href="https://github.com/joaopedrolps/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrolps&show_icons=true&theme=dark" />
